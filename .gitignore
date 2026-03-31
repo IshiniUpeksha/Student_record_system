@@ -1,0 +1,10 @@
+# Ignore compiled executable files
+*.exe
+*.o
+*.out
+
+# Ignore temporary VS Code Runner files
+tempCodeRunnerFile.c
+
+# Ignore local data files (keep the repo clean)
+students.txt
